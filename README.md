@@ -11,9 +11,9 @@
 공식 사이트의 버그를 발견하거나 의견이 있으신 분은 상단의 이슈 탭을 이용해 주시기 바랍니다.
 
 ## 다운로드
-1. 우측 상단의 <b>Clone or download</b> 버튼을 클릭합니다.
-2-1. Download 버튼을 클릭하여 압축된 소스코드를 다운로드 받습니다.
-2-2. url을 복사한 뒤 git을 이용해서 받습니다. (git clone https://github.com/Info-Share/info-welding-quality-inspection.git)
+1.우측 상단의 <b>Clone or download</b> 버튼을 클릭합니다.<br/>
+2-1.Download 버튼을 클릭하여 압축된 소스코드를 다운로드 받습니다.<br/>
+2-2.url을 복사한 뒤 git을 이용해서 받습니다. (git clone https://github.com/Info-Share/info-welding-quality-inspection.git)<br/>
 
 ## 환경구성
 해당 프로젝트 소스코드를 실행하기 위한 환경 구성 설명

@@ -1,5 +1,4 @@
 # info-welding-quality-inspection
-인포쉐어 수질관리
 <br/>레이저 비전 카메라를 이용한 영상분석 기반의 용접품질 검사 시스템
 <br/>
 ## 개발목적

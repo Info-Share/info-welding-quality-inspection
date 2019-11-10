@@ -22,10 +22,6 @@ HD급 화질에 대한 16fps 수준의 모니터링 지원<br/>
 2-2.url을 복사한 뒤 git을 이용해서 받습니다. (git clone https://github.com/Info-Share/info-welding-quality-inspection.git)<br/>
 <br/>
 <br/> 
-## 환경구성
-해당 프로젝트 소스코드를 실행하기 위한 환경 구성 설명
-<br/>
-<br/>
 ## 참여하기
 참여자 지침 [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 을 먼저 읽어보시고, 깃헙의 풀리퀘스트 과정을 따라 제출해 주시기 바랍니다.
 <br/>

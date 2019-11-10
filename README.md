@@ -1,8 +1,9 @@
-# info-welding-quality-inspection
+# Info Welding Quality Inspection
 <br/>레이저 비전 카메라를 이용한 영상분석 기반의 용접품질 검사 시스템
 <br/>
 <br/>
 ![Top_cover.png](Top_cover.png)
+<br/>
 <br/>
 ## 개발목적
 본 개발목적은 용접공정이 있는 다양한 전통산업에서 검사장치만 구비한다면, 즉각적으로 현업에 활용할 수 있는 제품으로서 설계하여, 적용 및 확산 가능성과 현업활용도를 극대화 할 것을 목표함 

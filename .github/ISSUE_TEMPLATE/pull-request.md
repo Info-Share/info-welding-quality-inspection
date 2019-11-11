@@ -7,13 +7,17 @@ assignees: ''
 
 ---
 
-What's this PR do?
+무엇을 위한 PR입니까?
+[What's this PR do?]
 
 
-What are the relevant tickets(redmine link, github issue hash tag)?
+관련 티켓은 무엇입니까 (github issue)?
+[What are the relevant tickets(github issue hash tag)?]
 
 
-How should this be manually/automatically tested?
+테스트는 어떻게 합니까?
+[How should this be manually/automatically tested?]
 
 
-Is there any refences (link)?
+참고물(or 링크)이 있습니까?
+[Is there any refences (link)?]

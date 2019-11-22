@@ -33,6 +33,7 @@ HD급 화질에 대한 16fps 수준의 모니터링 지원<br/>
 [커뮤니티 게시판](https://hamonikr.org/info_welding)<br/>
 [페이스북](https://fb.me/infowelding)<br/>
 [github](https://github.com/Info-Share/info-welding-quality-inspection)<br/>
+[github page](https://info-share.github.io/info-welding-quality-inspection)<br/>
 <br/>
 <br/> 
 ## 라이선스
